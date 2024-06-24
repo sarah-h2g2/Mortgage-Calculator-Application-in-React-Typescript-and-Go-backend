@@ -1,7 +1,7 @@
 
 ## Assignment Notes
 
-The assignment has been completed in React using Create React App with TypeScript. The frontend code is under `mortgage_calculator_ui` directory. The project strcuture contains following directories:
+The project has been built in React using Create React App with TypeScript integrated with Go backend. The frontend code is under `mortgage_calculator_ui` directory. The project strcuture contains following directories:
  - src
    - components
      - Calculator
