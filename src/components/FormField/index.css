@@ -1,0 +1,36 @@
+.center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  label {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      white-space: nowrap;
+      position: relative;
+      line-height: 1;
+  }
+    
+  input {
+      margin: 0.8rem;
+      width: 10rem;
+    }
+    
+  select {
+      margin: 0.8rem;
+      width: 10.5rem;
+  }
+  
+  .error{
+    position: absolute;
+    left: 150px;
+    bottom: -4px;
+    font-size: 0.7rem;
+    line-height: 1;
+    color: red;
+  }
+
+  .center button {
+    margin-top: 0.8rem;
+  }
